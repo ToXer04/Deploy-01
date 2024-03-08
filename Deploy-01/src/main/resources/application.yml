@@ -1,0 +1,5 @@
+environment: dev
+server:
+  port: 7070
+varTree:
+  devName: "Simone"
